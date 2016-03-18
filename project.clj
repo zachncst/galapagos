@@ -1,4 +1,4 @@
-(defproject galapagos "0.1.0-SNAPSHOT"
+(defproject galapagos "0.1.1-SNAPSHOT"
   :description "A server library implementing the GraphQL specification."
   :url "https://github.com/jstaffans/galapagos"
   :license {:name  "The MIT License"
